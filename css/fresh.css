@@ -1,0 +1,27 @@
+.textBanner{
+    text-align: center;
+    line-height: 50px;
+}
+.textBanner h1 {
+    text-align: center;
+    color: seagreen;
+}
+.textBanner p {
+    text-align: center;
+    font-size: 18px;
+    color: seagreen;
+}
+.textBanner .btn {
+    background-color: seagreen;
+    border-color: seagreen;
+}
+
+.card-body h5 {
+    font-size: 16px;
+    color: seagreen;
+}
+.card-img-top {
+  width: 100%;
+  height: 300px;        /* fixed height */
+  object-fit: cover;    /* crop image nicely */
+}

@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "name": "20 Roses Bouquet",
+        "price": 2690.00,
+        "image": "/homeImages/bestSeller2.webp",
+        "category": "fresh",
+        "subcategory": "bouquet"
+    },
+    {
+        "id": 2,
+        "name": "Minimal Pink",
+        "price": 890.00,
+        "image": "/homeImages/bestSeller1.jpg",
+        "category": "fresh",
+        "subcategory": "bouquet"
+    },
+    {
+        "id": 3,
+        "name": "Belle Amour Bouquet",
+        "price": 3990.00,
+        "image": "/homeImages/bestSeller3.jpg",
+        "category": "fresh",
+        "subcategory": "bouquet"
+    },
+    {
+        "id": 4,
+        "name": "Le Bouquet Blanc",
+        "price": 890.00,
+        "image": "/homeImages/bestSeller4.jpg",
+        "category": "fresh",
+        "subcategory": "bouquet"
+    },
+    {
+        "id": 5,
+        "name": "Vanilla Ice",
+        "price": 1490.00,
+        "image": "/freshImages/flowerBouquet5.jpg",
+        "category": "fresh",
+        "subcategory": "bouquet"
+    },
+    {
+        "id": 6,
+        "name": "flower6",
+        "price": 1490.00,
+        "image": "/freshImages/flowerBox1.jpg",
+        "category": "fresh",
+        "subcategory": "box"
+    },
+    {
+        "id": 7,
+        "name": "flower7",
+        "price": 1490.00,
+        "image": "/freshImages/flowerBox2.jpg",
+        "category": "fresh",
+        "subcategory": "box"
+    },
+    {
+        "id": 8,
+        "name": "flower8",
+        "price": 1490.00,
+        "image": "/freshImages/flowerBox3.jpg",
+        "category": "fresh",
+        "subcategory": "box"
+    },
+    {
+        "id": 9,
+        "name": "flower9",
+        "price": 1490.00,
+        "image": "/freshImages/flowerBasket1.jpg",
+        "category": "fresh",
+        "subcategory": "basket"
+    },
+    {
+        "id": 10,
+        "name": "flower10",
+        "price": 1490.00,
+        "image": "/freshImages/flowerBasket2.jpg",
+        "category": "fresh",
+        "subcategory": "basket"
+    },
+    {
+        "id": 11,
+        "name": "flower11",
+        "price": 1490.00,
+        "image": "/freshImages/flowerBasket3.jpg",
+        "category": "fresh",
+        "subcategory": "basket"
+    },
+    {
+        "id": 12,
+        "name": "flower12",
+        "price": 1490.00,
+        "image": "/freshImages/flowerBasket4.jpg",
+        "category": "fresh",
+        "subcategory": "basket"
+    },
+    {
+        "id": 13,
+        "name": "flower13",
+        "price": 1490.00,
+        "image": "/freshImages/flowerBasket5.jpg",
+        "category": "fresh",
+        "subcategory": "basket"
+    },
+    {
+        "id": 14,
+        "name": "flower14",
+        "price": 1490.00,
+        "image": "/freshImages/flowerBasket6.jpg",
+        "category": "fresh",
+        "subcategory": "basket"
+    },
+    {
+        "id": 15,
+        "name": "flower15",
+        "price": 1490.00,
+        "image": "/freshImages/flowerBasket7.jpg",
+        "category": "fresh",
+        "subcategory": "basket"
+    },
+    {
+        "id": 16,
+        "name": "flower16",
+        "price": 1490.00,
+        "image": "/freshImages/flowerBasket8.jpg",
+        "category": "fresh",
+        "subcategory": "basket"
+    },
+    {
+        "id": 17,
+        "name": "flower17",
+        "price": 1490.00,
+        "image": "/freshImages/flowerVase1.jpg",
+        "category": "fresh",
+        "subcategory": "vase"
+    },
+    {
+        "id": 18,
+        "name": "flower18",
+        "price": 1490.00,
+        "image": "/freshImages/flowerVase2.jpg",
+        "category": "fresh",
+        "subcategory": "vase"
+    },
+    {
+        "id": 19,
+        "name": "flower19",
+        "price": 1490.00,
+        "image": "/freshImages/flowerVase3.jpg",
+        "category": "fresh",
+        "subcategory": "vase"
+    },
+    {
+        "id": 20,
+        "name": "flower20",
+        "price": 1490.00,
+        "image": "/freshImages/flowerVase4.jpg",
+        "category": "fresh",
+        "subcategory": "vase"
+    },
+    {
+        "id": 21,
+        "name": "Artificial Flowers Bouquet",
+        "price": 690.00,
+        "image": "/artificialImages/artificialBouquet1.png",
+        "category": "artificial",
+        "subcategory": "bouquet"
+    },
+    {
+        "id": 22,
+        "name": "Ferrero Flowers Bouquet",
+        "price": 2190.00,
+        "image": "/artificialImages/artificialBouquet2.png",
+        "category": "artificial",
+        "subcategory": "bouquet"
+    },
+    {
+        "id": 23,
+        "name": "100 Roses Bouquet",
+        "price": 12290.00,
+        "image": "/freshImages/flowerBouquet6.png",
+        "category": "fresh",
+        "subcategory": "bouquet"
+    },
+    {
+        "id": 24,
+        "name": "10 Roses Bouquet",
+        "price": 1490.00,
+        "image": "/freshImages/flowerBouquet7.webp",
+        "category": "fresh",
+        "subcategory": "bouquet"
+    },
+    {
+        "id": 25,
+        "name": "40 Roses Bouquet",
+        "price": 5090.00,
+        "image": "/freshImages/flowerBouquet8.jpg",
+        "category": "fresh",
+        "subcategory": "bouquet"
+    },
+    {
+        "id": 26,
+        "name": "Rosy Cherry Pop",
+        "price": 5090.00,
+        "image": "/freshImages/flowerBouquet9.png",
+        "category": "fresh",
+        "subcategory": "bouquet"
+    },
+    {
+        "id": 27,
+        "name": "90 Roses Grand Box XL",
+        "price": 13090.00,
+        "image": "/freshImages/flowerBox4.png",
+        "category": "fresh",
+        "subcategory": "box"
+    },
+    {
+        "id": 28,
+        "name": "Pine Cocoa Hamper Box",
+        "price": 1990.00,
+        "image": "/artificialImages/artificialBox1.png",
+        "category": "artificial",
+        "subcategory": "box"
+    }                                         
+
+]
