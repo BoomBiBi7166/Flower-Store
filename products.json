@@ -1,227 +1,283 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "name": "20 Roses Bouquet",
         "price": 2690.00,
-        "image": "/Flower-Store/homeImages/bestSeller2.webp",
+        "image": "/homeImages/bestSeller2.webp",
         "category": "fresh",
-        "subcategory": "bouquet"
+        "subcategory": "bouquet",
+        "collection": "Classic Rose Bouquet",
+        "description": "Beautiful red roses."
     },
     {
-        "id": 2,
+        "id": "2",
         "name": "Minimal Pink",
         "price": 890.00,
-        "image": "/Flower-Store/homeImages/bestSeller1.jpg",
+        "image": "/homeImages/bestSeller1.jpg",
         "category": "fresh",
-        "subcategory": "bouquet"
+        "subcategory": "bouquet",
+        "collection": "Flower Bouquet",
+        "description": "DesciptionDescriptionDescriptionDescriptionDescription."
     },
     {
-        "id": 3,
+        "id": "3",
         "name": "Belle Amour Bouquet",
         "price": 3990.00,
-        "image": "/Flower-Store/homeImages/bestSeller3.jpg",
+        "image": "/homeImages/bestSeller3.jpg",
         "category": "fresh",
-        "subcategory": "bouquet"
+        "subcategory": "bouquet",
+        "collection": "Collection Name",
+        "description": "DesciptionDescriptionDescriptionDescriptionDescription."
     },
     {
-        "id": 4,
+        "id": "4",
         "name": "Le Bouquet Blanc",
         "price": 890.00,
-        "image": "/Flower-Store/homeImages/bestSeller4.jpg",
+        "image": "/homeImages/bestSeller4.jpg",
         "category": "fresh",
-        "subcategory": "bouquet"
+        "subcategory": "bouquet",
+        "collection": "Collection Name",
+        "description": "DesciptionDescriptionDescriptionDescriptionDescription."
     },
     {
-        "id": 5,
+        "id": "5",
         "name": "Vanilla Ice",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerBouquet5.jpg",
+        "image": "/freshImages/flowerBouquet5.jpg",
         "category": "fresh",
-        "subcategory": "bouquet"
+        "subcategory": "bouquet",
+        "collection": "Collection Name",
+        "description": "DesciptionDescriptionDescriptionDescriptionDescription."
     },
     {
-        "id": 6,
+        "id": "6",
         "name": "flower6",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerBox1.jpg",
+        "image": "/freshImages/flowerBox1.jpg",
         "category": "fresh",
-        "subcategory": "box"
+        "subcategory": "box",
+        "collection": "Collection Name",
+        "description": "DesciptionDescriptionDescriptionDescriptionDescription."
     },
     {
-        "id": 7,
+        "id": "7",
         "name": "flower7",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerBox2.jpg",
+        "image": "/freshImages/flowerBox2.jpg",
         "category": "fresh",
-        "subcategory": "box"
+        "subcategory": "box",
+        "collection": "Collection Name",
+        "description": "DesciptionDescriptionDescriptionDescriptionDescription."
     },
     {
-        "id": 8,
+        "id": "8",
         "name": "flower8",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerBox3.jpg",
+        "image": "/freshImages/flowerBox3.jpg",
         "category": "fresh",
-        "subcategory": "box"
+        "subcategory": "box",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 9,
+        "id": "9",
         "name": "flower9",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerBasket1.jpg",
+        "image": "/freshImages/flowerBasket1.jpg",
         "category": "fresh",
-        "subcategory": "basket"
+        "subcategory": "basket",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 10,
+        "id": "10",
         "name": "flower10",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerBasket2.jpg",
+        "image": "/freshImages/flowerBasket2.jpg",
         "category": "fresh",
-        "subcategory": "basket"
+        "subcategory": "basket",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 11,
+        "id": "11",
         "name": "flower11",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerBasket3.jpg",
+        "image": "/freshImages/flowerBasket3.jpg",
         "category": "fresh",
-        "subcategory": "basket"
+        "subcategory": "basket",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 12,
+        "id": "12",
         "name": "flower12",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerBasket4.jpg",
+        "image": "/freshImages/flowerBasket4.jpg",
         "category": "fresh",
-        "subcategory": "basket"
+        "subcategory": "basket",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 13,
+        "id": "13",
         "name": "flower13",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerBasket5.jpg",
+        "image": "/freshImages/flowerBasket5.jpg",
         "category": "fresh",
-        "subcategory": "basket"
+        "subcategory": "basket",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 14,
+        "id": "14",
         "name": "flower14",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerBasket6.jpg",
+        "image": "/freshImages/flowerBasket6.jpg",
         "category": "fresh",
-        "subcategory": "basket"
+        "subcategory": "basket",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 15,
+        "id": "15",
         "name": "flower15",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerBasket7.jpg",
+        "image": "/freshImages/flowerBasket7.jpg",
         "category": "fresh",
-        "subcategory": "basket"
+        "subcategory": "basket",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 16,
+        "id": "16",
         "name": "flower16",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerBasket8.jpg",
+        "image": "/freshImages/flowerBasket8.jpg",
         "category": "fresh",
-        "subcategory": "basket"
+        "subcategory": "basket",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 17,
+        "id": "17",
         "name": "flower17",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerVase1.jpg",
+        "image": "/freshImages/flowerVase1.jpg",
         "category": "fresh",
-        "subcategory": "vase"
+        "subcategory": "vase",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 18,
+        "id": "18",
         "name": "flower18",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerVase2.jpg",
+        "image": "/freshImages/flowerVase2.jpg",
         "category": "fresh",
-        "subcategory": "vase"
+        "subcategory": "vase",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 19,
+        "id": "19",
         "name": "flower19",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerVase3.jpg",
+        "image": "/freshImages/flowerVase3.jpg",
         "category": "fresh",
-        "subcategory": "vase"
+        "subcategory": "vase",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 20,
+        "id": "20",
         "name": "flower20",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerVase4.jpg",
+        "image": "/freshImages/flowerVase4.jpg",
         "category": "fresh",
-        "subcategory": "vase"
+        "subcategory": "vase",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 21,
+        "id": "21",
         "name": "Artificial Flowers Bouquet",
         "price": 690.00,
-        "image": "/Flower-Store/artificialImages/artificialBouquet1.png",
+        "image": "/artificialImages/artificialBouquet1.png",
         "category": "artificial",
-        "subcategory": "bouquet"
+        "subcategory": "bouquet",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 22,
+        "id": "22",
         "name": "Ferrero Flowers Bouquet",
         "price": 2190.00,
-        "image": "/Flower-Store/artificialImages/artificialBouquet2.png",
+        "image": "/artificialImages/artificialBouquet2.png",
         "category": "artificial",
-        "subcategory": "bouquet"
+        "subcategory": "bouquet",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 23,
+        "id": "23",
         "name": "100 Roses Bouquet",
         "price": 12290.00,
-        "image": "/Flower-Store/freshImages/flowerBouquet6.png",
+        "image": "/freshImages/flowerBouquet6.png",
         "category": "fresh",
-        "subcategory": "bouquet"
+        "subcategory": "bouquet",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 24,
+        "id": "24",
         "name": "10 Roses Bouquet",
         "price": 1490.00,
-        "image": "/Flower-Store/freshImages/flowerBouquet7.webp",
+        "image": "/freshImages/flowerBouquet7.webp",
         "category": "fresh",
-        "subcategory": "bouquet"
+        "subcategory": "bouquet",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 25,
+        "id": "25",
         "name": "40 Roses Bouquet",
         "price": 5090.00,
-        "image": "/Flower-Store/freshImages/flowerBouquet8.jpg",
+        "image": "/freshImages/flowerBouquet8.jpg",
         "category": "fresh",
-        "subcategory": "bouquet"
+        "subcategory": "bouquet",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 26,
+        "id": "26",
         "name": "Rosy Cherry Pop",
         "price": 5090.00,
-        "image": "/Flower-Store/freshImages/flowerBouquet9.png",
+        "image": "/freshImages/flowerBouquet9.png",
         "category": "fresh",
-        "subcategory": "bouquet"
+        "subcategory": "bouquet",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 27,
+        "id": "27",
         "name": "90 Roses Grand Box XL",
         "price": 13090.00,
-        "image": "/Flower-Store/freshImages/flowerBox4.png",
+        "image": "/freshImages/flowerBox4.png",
         "category": "fresh",
-        "subcategory": "box"
+        "subcategory": "box",
+        "collection": "",
+        "description": ""
     },
     {
-        "id": 28,
+        "id": "28",
         "name": "Pine Cocoa Hamper Box",
         "price": 1990.00,
-        "image": "/Flower-Store/artificialImages/artificialBox1.png",
+        "image": "/artificialImages/artificialBox1.png",
         "category": "artificial",
-        "subcategory": "box"
+        "subcategory": "box",
+        "collection": "",
+        "description": ""
     }                                         
 
 ]
