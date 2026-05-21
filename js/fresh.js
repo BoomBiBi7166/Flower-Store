@@ -17,6 +17,7 @@ function renderProducts(products) {
                     <div class="card-body text-center">
                         <h5 class="card-text mb-3">${p.name}</h5>
                         <h5 class="mt-0">฿${p.price}</h5>
+                        <a href="/flowerPage/product.html?id=${p.id}" class="btn btn-primary">BUY NOW</a>
                     </div>
                 </div>
             </div>
