@@ -39,13 +39,24 @@ fetch("../products.json")
 
                 fresh: {
                     name: "Fresh Flower",
-                    link: "/flowerPage/fresh.html"
+                    link: "/Flower-Store/flowerPage/fresh.html"
                 },
 
                 artificial: {
                     name: "Artificial Flower",
-                    link: "/flowerPage/artificial.html"
-                }    
+                    link: "/Flower-Store/flowerPage/artificial.html"
+                }
+
+            };
+
+            const category =
+                categoryData[product.category];
+
+            document.getElementById("breadcrumbCategory").innerText =
+                category.name;
+
+            document.getElementById("breadcrumbCategory").href =
+                category.link;    
         }
 
     });
