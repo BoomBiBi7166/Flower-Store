@@ -1,0 +1,81 @@
+<html lang="en">
+
+<head>
+    <title>Blooming Garden</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="/Flower-Store/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/Flower-Store/css/main.css">
+    <link rel="stylesheet" href="/Flower-Store/css/navbar.css">
+    <link rel="stylesheet" href="/Flower-Store/css/footer.css">
+    <link rel="stylesheet" href="/Flower-Store/css/fresh.css">
+</head>
+
+<body>
+
+    <div id="navbar"></div>
+
+    <!-- Breadcrumb -->
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a href="/Flower-Store/index.html">Home</a>
+            </li>
+            <li class="breadcrumb-item">
+                <a href="/Flower-Store/flowerPage/fresh.html">Fresh Flower</a>
+            </li>
+            <li class="breadcrumb-item active" id="breadcrumbName">
+                
+            </li>
+        </ol>
+    </nav>
+
+    <!-- Product Section -->
+    <div class="container">
+        <div class="row justify-content-center">
+
+            <!-- Image -->
+            <div class="col-12 col-md-6 d-flex justify-content-center">
+                <img id="productImage" src="" class="productImage img-fluid" alt="Product Image">
+            </div>
+
+            <!-- Product Info -->
+            <div class="col-12 col-md-4">
+                <h1 id="productName"></h1>
+                <h2 id="productPrice"></h2>
+                <br>
+                <p id="productCollection"></p>
+                <br>
+                <p id="productDescription"></p>
+                <br>
+
+                <!-- Quantity -->
+                <div class="btn-group" role="group">
+                    <button type="button" class="btn btn-outline-primary" style="width: 40px;"
+                        onclick="decreaseQuantity()">
+                        -
+                    </button>
+                    <input id="quantity" type="number" value="1" min="1" style="width: 60px; text-align: center;">
+                    <button type="button" class="btn btn-outline-primary" style="width: 40px;"
+                        onclick="increaseQuantity()">
+                        +
+                    </button>
+                </div>
+                <br><br>
+                <a href="#" class="btn btn-primary">
+                    ADD TO CART
+                </a>
+            </div>
+        </div>
+    </div>
+    <div id="footer"></div>
+    <script src="/Flower-Store/js/include.js"></script>
+    <script src="/Flower-Store/js/bootstrap.bundle.min.js"></script>
+    <script src="/Flower-Store/js/product.js"></script>
+
+
+
+  
+</body>
+
+</html>
