@@ -35,7 +35,17 @@ fetch("../products.json")
 
             document.getElementById("breadcrumbName").innerText =
                 product.name;
-                
+            const categoryData = {
+
+                fresh: {
+                    name: "Fresh Flower",
+                    link: "/flowerPage/fresh.html"
+                },
+
+                artificial: {
+                    name: "Artificial Flower",
+                    link: "/flowerPage/artificial.html"
+                }    
         }
 
     });
