@@ -45,22 +45,6 @@ fetch("../products.json")
     });
 
 const descriptions = {
-    bouquet: {
-        title: "Artificial Flower Bouquet",
-        desc: "Handcrafted bouquets designed to express love and elegance. Perfect for birthdays, anniversaries, and romantic surprises."
-    },
-    box: {
-        title: "Artificial Flower Box",
-        desc: "Luxury flower boxes arranged in a modern style. A premium gift that stands out for any special occasion."
-    },
-    basket: {
-        title: "Artificial Flower Basket",
-        desc: "Charming flower baskets filled with vibrant blooms. Ideal for celebrations, congratulations, and heartfelt gifts."
-    },
-    vase: {
-        title: "Artificial Flower Vase",
-        desc: "Artificial flower vase come in many size and shape than can be customized based on your desire. Perfect choice for decoration."
-    },
     all: {
         title: "Artificial Flower",
         desc: "Celebrate every special moment with stunning fresh flowers. Available in various styles to perfectly match your heart's desire."
