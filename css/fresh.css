@@ -25,3 +25,21 @@
   height: 300px;        /* fixed height */
   object-fit: cover;    /* crop image nicely */
 }
+.card-body .btn{
+    margin-top: 8px;
+    background-color: seagreen;
+    border-color: seagreen;
+}
+.breadcrumb {
+    margin-left: 14px;
+}
+.productImage {
+    width: 600px;
+    height: 600px;
+}
+/* Chrome, Safari, Edge */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
